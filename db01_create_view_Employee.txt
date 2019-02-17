@@ -1,0 +1,10 @@
+/**
+     * ID: Employee
+     * Description: Employee master table
+     */
+CREATE VIEW F0101View AS SELECT 
+/*Employee ID*/ t0.EMID EMID , 
+/*Employee Status*/ t0.EMSTATUS EMSTATUS , 
+/*Employee Gender*/ t0.EMGENDER EMGENDER , 
+/*Employee Name*/ t0.EMNAME EMNAME , 
+/*Total Sales Amount*/ ? EMAMOUNT FROM F0101 t0;
