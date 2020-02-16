@@ -1,5 +1,5 @@
-@db01_drop_table_Record.sql; 
+@db01_drop_table_record.sql; 
 
-@db01_drop_table_Product.sql; 
+@db01_drop_table_product.sql; 
 
-@db01_drop_table_Employee.sql;
+@db01_drop_table_employee.sql;
