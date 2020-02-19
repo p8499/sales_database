@@ -1,5 +1,5 @@
 /**
-     * ID: record
+     * ID: recd
      * Description: Sales record table
      */
 CREATE VIEW F4211VIEW AS SELECT 

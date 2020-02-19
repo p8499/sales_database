@@ -1,5 +1,5 @@
 /**
- * ID: Record
+ * ID: recd
  * Description: Sales record table
  */
 DROP SEQUENCE F4211_REID;

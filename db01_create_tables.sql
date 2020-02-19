@@ -1,5 +1,5 @@
-@db01_create_table_employee.sql; 
+@db01_create_table_empl.sql; 
 
-@db01_create_table_product.sql; 
+@db01_create_table_prod.sql; 
 
-@db01_create_table_record.sql;
+@db01_create_table_recd.sql;

@@ -1,5 +1,5 @@
 /**
- * ID: Employee
+ * ID: empl
  * Description: Employee master table
  */
-DROP VIEW F0101View;
+DROP TABLE F0101;

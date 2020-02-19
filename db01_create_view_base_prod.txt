@@ -1,5 +1,5 @@
 /**
-     * ID: product
+     * ID: prod
      * Description: Product master table
      */
 CREATE VIEW F4101VIEW AS SELECT 

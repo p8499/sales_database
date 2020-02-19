@@ -1,5 +1,5 @@
 /**
- * ID: employee
+ * ID: empl
  * Description: Employee master table
  */
 CREATE TABLE F0101 ( 

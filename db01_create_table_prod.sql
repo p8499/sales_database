@@ -1,10 +1,10 @@
 /**
- * ID: Product
+ * ID: prod
  * Description: Product master table
  */
 CREATE TABLE F4101 ( 
-/*Product ID*/ IMID INTEGER NOT NULL , 
+/*Product ID*/ IMID INTEGER , 
 /*Product Name*/ IMNAME NVARCHAR2(64) , 
-/*Product Price*/ IMPRICE NUMBER(8,2) NOT NULL );
+/*Product Price*/ IMPRICE NUMBER(8,2) );
 ALTER TABLE F4101 ADD CONSTRAINT F4101_PRIMARY PRIMARY KEY ( IMID );
 CREATE SEQUENCE F4101_IMID MINVALUE 0 START WITH 1;

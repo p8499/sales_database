@@ -1,5 +1,5 @@
-@db01_create_view_employee.sql; 
+@db01_create_view_empl.sql; 
 
-@db01_create_view_product.sql; 
+@db01_create_view_prod.sql; 
 
-@db01_create_view_record.sql;
+@db01_create_view_recd.sql;
